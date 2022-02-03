@@ -1,0 +1,6 @@
+D:\Zensar C# Codes\CalculateConcession\bin\Debug\CalculateConcession.dll
+D:\Zensar C# Codes\CalculateConcession\bin\Debug\CalculateConcession.pdb
+D:\Zensar C# Codes\CalculateConcession\obj\Debug\CalculateConcession.csproj.AssemblyReference.cache
+D:\Zensar C# Codes\CalculateConcession\obj\Debug\CalculateConcession.csproj.CoreCompileInputs.cache
+D:\Zensar C# Codes\CalculateConcession\obj\Debug\CalculateConcession.dll
+D:\Zensar C# Codes\CalculateConcession\obj\Debug\CalculateConcession.pdb
