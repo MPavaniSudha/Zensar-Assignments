@@ -1,7 +1,0 @@
-D:\Zensar C# Codes\Jan27_Proj\obj\Debug\Jan27_Proj.csproj.AssemblyReference.cache
-D:\Zensar C# Codes\Jan27_Proj\obj\Debug\Jan27_Proj.csproj.CoreCompileInputs.cache
-D:\Zensar C# Codes\Jan27_Proj\bin\Debug\Jan27_Proj.exe.config
-D:\Zensar C# Codes\Jan27_Proj\bin\Debug\Jan27_Proj.exe
-D:\Zensar C# Codes\Jan27_Proj\bin\Debug\Jan27_Proj.pdb
-D:\Zensar C# Codes\Jan27_Proj\obj\Debug\Jan27_Proj.exe
-D:\Zensar C# Codes\Jan27_Proj\obj\Debug\Jan27_Proj.pdb
