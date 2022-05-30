@@ -1,0 +1,7 @@
+D:\Zensar C# Codes\Zensar_CaseStudy_Day1\Zensar_CaseStudy_Day1\bin\Debug\Zensar_CaseStudy_Day1.exe.config
+D:\Zensar C# Codes\Zensar_CaseStudy_Day1\Zensar_CaseStudy_Day1\bin\Debug\Zensar_CaseStudy_Day1.exe
+D:\Zensar C# Codes\Zensar_CaseStudy_Day1\Zensar_CaseStudy_Day1\bin\Debug\Zensar_CaseStudy_Day1.pdb
+D:\Zensar C# Codes\Zensar_CaseStudy_Day1\Zensar_CaseStudy_Day1\obj\Debug\Zensar_CaseStudy_Day1.csproj.CoreCompileInputs.cache
+D:\Zensar C# Codes\Zensar_CaseStudy_Day1\Zensar_CaseStudy_Day1\obj\Debug\Zensar_CaseStudy_Day1.exe
+D:\Zensar C# Codes\Zensar_CaseStudy_Day1\Zensar_CaseStudy_Day1\obj\Debug\Zensar_CaseStudy_Day1.pdb
+D:\Zensar C# Codes\Zensar_CaseStudy_Day1\Zensar_CaseStudy_Day1\obj\Debug\Zensar_CaseStudy_Day1.csproj.AssemblyReference.cache
