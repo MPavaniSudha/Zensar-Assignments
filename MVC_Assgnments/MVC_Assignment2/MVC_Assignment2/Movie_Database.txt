@@ -1,0 +1,25 @@
+select * from Customers
+select * from Orders
+
+create database Moviedb
+
+use Moviedb
+
+--table creation of Movie
+create table MovieTable
+(mid int Primary key,
+moviename varchar(30),
+dateofrelease varchar(15))
+
+
+---insert values into movietable
+insert into MovieTable values
+(1001,'RRR','18-03-2022'),
+(1002,'RadheyShyam','11-03-2022'),
+(1003,'Bahubali','03-06-2017'),
+(1004,'Pushpa','20-12-2021'),
+(1005,'Liger','05-06-2022'),
+(1006,'Magadheera','06-09-2009'),
+(1007,'Ghani','08-05-2023')
+
+select *from MovieTable
