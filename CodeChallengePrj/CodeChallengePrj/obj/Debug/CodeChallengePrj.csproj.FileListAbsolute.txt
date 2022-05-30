@@ -1,0 +1,7 @@
+D:\Zensar C# Codes\CodeChallengePrj\CodeChallengePrj\bin\Debug\CodeChallengePrj.exe.config
+D:\Zensar C# Codes\CodeChallengePrj\CodeChallengePrj\bin\Debug\CodeChallengePrj.exe
+D:\Zensar C# Codes\CodeChallengePrj\CodeChallengePrj\bin\Debug\CodeChallengePrj.pdb
+D:\Zensar C# Codes\CodeChallengePrj\CodeChallengePrj\obj\Debug\CodeChallengePrj.csproj.AssemblyReference.cache
+D:\Zensar C# Codes\CodeChallengePrj\CodeChallengePrj\obj\Debug\CodeChallengePrj.csproj.CoreCompileInputs.cache
+D:\Zensar C# Codes\CodeChallengePrj\CodeChallengePrj\obj\Debug\CodeChallengePrj.exe
+D:\Zensar C# Codes\CodeChallengePrj\CodeChallengePrj\obj\Debug\CodeChallengePrj.pdb
